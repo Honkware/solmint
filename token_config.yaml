@@ -1,0 +1,10 @@
+rpcUrl: https://api.devnet.solana.com
+name: MyToken
+symbol: MT
+description: My custom token description
+image: https://example.com/token_image.png
+extensions:
+  website: "https://mytoken.com"
+  twitter: "https://twitter.com/MyToken"
+decimals: 9
+totalSupply: 1000000
